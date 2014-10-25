@@ -1,0 +1,5 @@
+/* make default content area wider */
+.ep_tm_page_content
+{
+	width: 870px;
+}
